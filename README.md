@@ -1,2 +1,9 @@
 # C_reference
 C语言的一些基础知识，用来查询与复习
+---
+
+---
+位bit(Binary Digits) = 0/1\n
+字节byte = 8 bit\n
+字word = 8/16/32/64 bit
+
