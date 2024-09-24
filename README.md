@@ -15,7 +15,7 @@ int main()	//从主函数开始
 }
 ```
 
-##### Typrdef_Basic 变量的基本数据类型
+#### Type_Basic 变量的基本数据类型 \[Type_Basic.md](Type_Basic.md)
 
 包含char,int,long,short,float,double,_Bool等基础数据类型
 
