@@ -15,7 +15,7 @@ int main()	//从主函数开始
 }
 ```
 
-#### Type_Basic 变量的基本数据类型 \[Type_Basic.md](C_reference/Type_Basic.md)
+#### Type_Basic 变量的基本数据类型 \[Type_Basic.md](https://github.com/Regulus2005XM/C_reference/Type_Basic.md)
 
 包含char,int,long,short,float,double,_Bool等基础数据类型
 
